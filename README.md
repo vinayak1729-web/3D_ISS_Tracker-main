@@ -1,12 +1,13 @@
 # 3D ISS Tracker
 
 ## About
-[Web application](https://dengrenhao.github.io/3D_ISS_Tracker/) developed for [the challenge](https://2022.spaceappschallenge.org/challenges/2022-challenges/track-the-iss/details) of [NASA International Space Apps Challenge 2022](https://www.spaceappschallenge.org)
+[Web application](https://vinayak1729-web.github.io/3D_ISS_Tracker-main/) developed for [the challenge](https://2022.spaceappschallenge.org/challenges/2022-challenges/track-the-iss/details) of [NASA International Space Apps Challenge 2022](https://www.spaceappschallenge.org)
 
 ---
 
-## [Website](https://dengrenhao.github.io/3D_ISS_Tracker/)
+## [Website](https://vinayak1729-web.github.io/3D_ISS_Tracker-main/)
 **Screenshot:**
+![image](https://ibb.co/nfk33Qc)
 ![image](https://user-images.githubusercontent.com/42902734/193443478-0cc72d48-802c-4e25-9c54-de51a01e2cf6.png)
 
 
@@ -22,7 +23,6 @@
 7.  Double click to **focus** on the ISS.
 8.  The ISS moves all the time.
 
-## [Demo](https://www.youtube.com/watch?v=16DeyFaHy3U)
 
 ---
 
