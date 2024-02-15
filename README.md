@@ -6,10 +6,6 @@
 ---
 
 ## [Website](https://vinayak1729-web.github.io/3D_ISS_Tracker-main/)
-**Screenshot:**
-![image](https://ibb.co/nfk33Qc)
-![image](https://user-images.githubusercontent.com/42902734/193443478-0cc72d48-802c-4e25-9c54-de51a01e2cf6.png)
-
 
 ---
 
